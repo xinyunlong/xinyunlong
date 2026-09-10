@@ -17,11 +17,14 @@ a full stack projects. Tentative steps could be:
 + Although AI can be the one writting documentation, how can I make sure the documentation correctly reflects code instead of hallucination?
 + Is the documentation readable, is it for human or AI?
 
-3. Using AI in producing sustanale code.
+3. Using AI to produce sustanale code.
 + What are some ways to use AI efficiently?
 + Here is a senerio: Bob joined a hackathon project that allows AI usage, he built an interesting project using Claude. After the Hackathon, he
   wish to continue the project, but unfortunately he couldn't understand what is AI writing about. The architecture and components look so familiar,
-  but why the components loop and call each other. Bob loses the ability to debug AI code.
+  but why the components loop and call each other. Bob don't know how to debug AI code.
 
+4. Beneficial skills for developers
++ Github Workflow: main, release, dev, feature...
++ Monorepo vs multiple repo
   
 _Original work_
